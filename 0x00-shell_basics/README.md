@@ -1,1 +1,1 @@
-a script that prints the current working directory
+Display alist of the current working directory in long format
